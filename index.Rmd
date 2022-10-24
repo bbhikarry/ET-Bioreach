@@ -12,10 +12,10 @@ output:
       slideNumberFormat: "%current%"
       highlightStyle: github
       highlightLines: true
-      ratio: 16:9
+      ratio: 4:3
       countIncrementalSlides: true
-    includes:  
-      after_body: timer.html  
+#    includes:  
+#      after_body: timer.html  
 ---
 
 ```{r setup, include=FALSE}
